@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(249, 235, 219);
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Verdana, sans-serif;
+}
+
+.large-photo {
+    width: 800px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+a {
+    color: blue;
+}
