@@ -1,4 +1,3 @@
 # odin-recipes
-##Purpose
-This is a simple project to learn about deploying websites on Github
-
+## Purpose
+This is a simple project to learn the basics of web development and deploying websites on GitHub
